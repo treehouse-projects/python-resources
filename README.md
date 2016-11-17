@@ -1,5 +1,4 @@
-<img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python Logo" style="height: 50px;"/>
-
+![alt text](https://www.python.org/static/img/python-logo@2x.png "Python Logo" | height=50)
 #Treehouse Python Web Techdegree Resources
 
 This is a community based list of resources for the [Python Techdegree](https://www.teamtreehouse.com). 
