@@ -10,6 +10,8 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ## Index
 
 [Python](#Python) · [HTML](#HTML) · [CSS](#CSS) · [JavaScript](#JavaScript) · [Career](#Career)
+
+
  
 -------
  
@@ -20,9 +22,12 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 * **[Flask Framework](http://flask.pocoo.org/)**
 
+    * NEW - **[Peewee ORM](https://peewee.readthedocs.io/en/latest/)**
+
 * **[PEP-08](https://www.python.org/dev/peps/pep-0008/)**
 
 * **[Python Site](https://www.python.org/)**
+
 
 
 ### HTML
