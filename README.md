@@ -10,6 +10,10 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
  
 ### Python
 
+* **[Django Framework](https://www.djangoproject.com/)**
+
+* **[Flask Framework](http://flask.pocoo.org/)**
+
 * **[PEP-08](https://www.python.org/dev/peps/pep-0008/)**
 
 * **[Python Site](https://www.python.org/)**
@@ -17,14 +21,17 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 ### HTML
 
-
+* **[HTML Validation](https://validator.w3.org/)**
 
 ### CSS
 
-
+* **[CSS Validation](https://jigsaw.w3.org/css-validator/)**
 
 ### JavaScript
 
-
+* **[JS Hint](http://jshint.com/)** - A JavaScript validator
 
 ### Career
+
+* **[Django Jobs](https://www.djangojobs.net/jobs/)**
+
