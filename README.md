@@ -8,6 +8,8 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 [Python](#Python) · [HTML](#HTML) · [CSS](#CSS) · [JavaScript](#JavaScript) · [Career](#Career)
  
+-------
+ 
 ### Python
 
 * **[Django Framework](https://www.djangoproject.com/)**
