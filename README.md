@@ -16,6 +16,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ### Python
 
 * **[Django Framework](https://www.djangoproject.com/)**
+    * **[Django Authentication](https://docs.djangoproject.com/en/1.10/topics/auth/)**
 
 * **[Flask Framework](http://flask.pocoo.org/)**
 
