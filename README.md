@@ -9,7 +9,13 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
  
 ## Index
 
-[Python](#Python) · [HTML](#HTML) · [CSS](#CSS) · [JavaScript](#JavaScript) · [Career](#Career)
+[Python](#Python) · 
+[HTML](#HTML) · 
+[CSS](#CSS) · 
+[JavaScript](#JavaScript) · 
+[General](#General) · 
+[Slack](#Slack) · 
+[Career](#Career)
 
 
  
@@ -41,6 +47,14 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ### JavaScript
 
 * **[JS Hint](http://jshint.com/)** - A JavaScript validator
+
+### General
+
+* 
+
+### Slack
+
+* 
 
 ### Career
 
