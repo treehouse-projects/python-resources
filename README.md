@@ -17,8 +17,6 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 [Slack](#Slack) · 
 [Career](#Career)
 
-
- 
 -------
  
 ### Python
