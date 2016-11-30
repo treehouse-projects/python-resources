@@ -23,15 +23,14 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 * **[Django Framework](https://www.djangoproject.com/)**
     * **[Django Authentication](https://docs.djangoproject.com/en/1.10/topics/auth/)**
+    * **[Django REST framework](http://www.django-rest-framework.org/)**
 
 * **[Flask Framework](http://flask.pocoo.org/)**
-
-    * NEW - **[Peewee ORM](https://peewee.readthedocs.io/en/latest/)**
+    * **[Peewee ORM](https://peewee.readthedocs.io/en/latest/)**
 
 * **[PEP-08](https://www.python.org/dev/peps/pep-0008/)**
 
 * **[Python Site](https://www.python.org/)**
-
 
 
 ### HTML
@@ -44,6 +43,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 ### JavaScript
 
+* **[JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 * **[JS Hint](http://jshint.com/)** - A JavaScript validator
 
 ### General
@@ -52,7 +52,8 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 ### Slack
 
-* 
+* **[How to Pin items](https://get.slack.help/hc/en-us/articles/205239997-Pin-messages-or-files)**
+* **[Setting a reminder](https://get.slack.help/hc/en-us/articles/208423427-Set-a-reminder)**
 
 ### Career
 
