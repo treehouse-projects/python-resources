@@ -22,8 +22,14 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ###Python
 
 * **[Django Framework](https://www.djangoproject.com/)**
+	* **[Django Admin](https://docs.djangoproject.com/en/1.10/ref/contrib/admin/)**
     * **[Django Authentication](https://docs.djangoproject.com/en/1.10/topics/auth/)**
+    * **[Django Models](https://docs.djangoproject.com/en/1.10/topics/db/models/)**
     * **[Django REST framework](http://www.django-rest-framework.org/)**
+    * **[Django Settings](https://docs.djangoproject.com/en/1.10/topics/settings/)**
+    * **[Django Signals](https://docs.djangoproject.com/en/1.10/topics/signals/)**
+    * **[Django Templates](https://docs.djangoproject.com/en/1.10/topics/templates/)**
+    * **[Django Views](https://docs.djangoproject.com/en/1.10/topics/http/views/)**
 
 * **[Flask Framework](http://flask.pocoo.org/)**
     * **[Peewee ORM](https://peewee.readthedocs.io/en/latest/)**
