@@ -1,6 +1,6 @@
 <img src="https://www.python.org/static/img/python-logo@2x.png" alt="Python Logo" height="50px"/>
 
-#Treehouse Python Web Techdegree Resources
+# Treehouse Python Web Techdegree Resources
 
 
 This is a community based list of resources for the [Python Techdegree](https://www.teamtreehouse.com). 
@@ -19,7 +19,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 -------
  
-###Python
+#### Python
 
 * **[Django Framework](https://www.djangoproject.com/)**
 	* **[Django Admin](https://docs.djangoproject.com/en/1.10/ref/contrib/admin/)**
@@ -39,29 +39,29 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 * **[Python Site](https://www.python.org/)**
 
 
-###HTML
+#### HTML
 
 * **[HTML Validation](https://validator.w3.org/)**
 
-###CSS
+#### CSS
 
 * **[CSS Validation](https://jigsaw.w3.org/css-validator/)**
 
-###JavaScript
+#### JavaScript
 
 * **[JavaScript MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
 * **[JS Hint](http://jshint.com/)** - A JavaScript validator
 
-###General
+#### General
 
 * 
 
-###Slack
+#### Slack
 
 * **[How to Pin items](https://get.slack.help/hc/en-us/articles/205239997-Pin-messages-or-files)**
 * **[Setting a reminder](https://get.slack.help/hc/en-us/articles/208423427-Set-a-reminder)**
 
-###Career
+#### Career
 
 * **[Django Jobs](https://www.djangojobs.net/jobs/)**
 
