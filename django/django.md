@@ -1,6 +1,6 @@
 ## [Django Web Framework](https://www.djangoproject.com/)
 
-**Django 2.0 - [Release Notes](https://docs.djangoproject.com/en/2.0/releases/2.0/)**
+### Django 2.0 - [Release Notes](https://docs.djangoproject.com/en/2.0/releases/2.0/)**
 
 **Topics ([All](https://docs.djangoproject.com/en/2.0/topics/))**
 
@@ -12,7 +12,7 @@
 * **[Django Templates](https://docs.djangoproject.com/en/2.0/topics/templates/)**
 * **[Django Views](https://docs.djangoproject.com/en/2.0/topics/http/views/)**
 
-**Django 1.11 — [Release Notes](https://docs.djangoproject.com/en/1.11/releases/1.11/)**
+### Django 1.11 — [Release Notes](https://docs.djangoproject.com/en/1.11/releases/1.11/)**
 
 **Topics ([All](https://docs.djangoproject.com/en/1.11/topics/))**
 
@@ -24,7 +24,7 @@
 * **[Django Templates](https://docs.djangoproject.com/en/1.11/topics/templates/)**
 * **[Django Views](https://docs.djangoproject.com/en/1.11/topics/http/views/)**
 
-**Django 1.10 — [Release Notes](https://docs.djangoproject.com/en/1.10/releases/1.10/)**
+### Django 1.10 — [Release Notes](https://docs.djangoproject.com/en/1.10/releases/1.10/)**
 
 **Topics ([All](https://docs.djangoproject.com/en/1.10/topics/))**
 
