@@ -24,15 +24,8 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 ### [Django](django/index.md)
 
-* Settings
-* Views
-* Models
-* Templates
-* ORM
-* Auth
-* Admin
-* Django Rest Framework
-
+* Django Web Framework
+* Django REST Framework
 
 ### [Front-End](front-end/index.md)
 
@@ -44,6 +37,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 ### [Slack](slack/index.md)
 
 * How-Tos in Slack
+
 
 ### Career
 * **[Django Jobs](https://www.djangojobs.net/jobs/)**
