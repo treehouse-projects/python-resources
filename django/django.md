@@ -1,4 +1,6 @@
-## [Django Web Framework](https://www.djangoproject.com/)
+## Django Web Framework
+
+**[Django Homepage](https://www.djangoproject.com/)**
 
 ### Django 2.0 - [Release Notes](https://docs.djangoproject.com/en/2.0/releases/2.0/)**
 
