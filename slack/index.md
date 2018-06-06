@@ -1,3 +1,5 @@
+[Back to Main Index](../README.md)
+
 ## Slack Resources
 Here are some resource to familiarize yourself with common tasks you may encounter or need to know while using the Slack service.
 
