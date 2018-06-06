@@ -8,7 +8,8 @@ This is a community based list of resources for the [Python Techdegree](https://
 Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](CONTRIBUTING.md). 
 
 ## Index of Resources
--------
+
+Below is an overview index of resources, followed by a list of topics covered within that section.
 
 ### [Python](python/index.md)
 
