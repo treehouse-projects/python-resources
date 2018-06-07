@@ -22,6 +22,8 @@ Python is a high-level **general purpose**, dynamically typed, object-orientated
   >This just means the translation of the code you write is not pre-compiled before you try to run it. It is "interpreted" line by line on-the-fly. This allows you to write and execute code more quickly, but also can be a drawback, where a compiler would of normally errored because it checks all lines prior to running them.
 
 
+---
+
 ### Style Guides
 Style Guides are just guidelines, but they are quite important when you start working in teams or others need to read the code you have written. They are great to use in practice to help you to write clean/organized code.
 
@@ -36,6 +38,7 @@ Style Guides are just guidelines, but they are quite important when you start wo
 * **[Google](https://google.github.io/styleguide/pyguide.html)**
 
 
+---
 
 ### Virtual Environments
 * **[Python Virtual Environments](https://docs.python.org/3/tutorial/venv.html)**
@@ -45,9 +48,13 @@ Style Guides are just guidelines, but they are quite important when you start wo
     * **[VirtualEnv](https://virtualenv.pypa.io/en/stable/)**
     * **[VirtualEnv Wrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)**
 
+---
+
 ### Installing Python
 
 * **[Downloading the Installer](https://wiki.python.org/moin/BeginnersGuide/Download)**
+
+---
 
 ### Other Resources
 * **[Regular Expression Checker](https://pythex.org/)**

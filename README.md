@@ -17,16 +17,22 @@ Below is an overview index of resources, followed by a list of topics covered wi
 * Style Guides
 * Virtual Environments
 
+---
+
 ### [Flask](flask/index.md)
 
 * Jinja2 Templating Language
 * Peewee ORM
 * Werkzeug for WSGI apps
 
+---
+
 ### [Django](django/index.md)
 
 * Django Web Framework
 * Django REST Framework
+
+---
 
 ### [Front-End](front-end/index.md)
 
@@ -35,10 +41,13 @@ Below is an overview index of resources, followed by a list of topics covered wi
 * JavaScript
 * jQuery
 
+---
+
 ### [Slack](slack/index.md)
 
 * How-Tos in Slack
 
+---
 
 ### Career
 * **[Django Jobs](https://www.djangojobs.net/jobs/)**
