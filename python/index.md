@@ -40,13 +40,8 @@ Style Guides are just guidelines, but they are quite important when you start wo
 
 ---
 
-### Python Environments
-* **[Python Environments](https://docs.python.org/3/tutorial/venv.html)**
-    
-    **Third Party Packages**
-
-    * **[VirtualEnv](https://virtualenv.pypa.io/en/stable/)**
-    * **[VirtualEnv Wrapper](https://virtualenvwrapper.readthedocs.io/en/latest/)**
+### [Python Environments](python-environments.md)
+You will hear about making "virtual environments" or "isolated Python environments" nearly everywhere when working in Python. It is a common practice that you will use to "isolate" dependencies for a given project.
 
 ---
 
