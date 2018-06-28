@@ -1,3 +1,5 @@
+[Back to Django Index](index.md)
+
 ## [Django REST Framework](http://www.django-rest-framework.org/)
 
 * **[Installation](http://www.django-rest-framework.org/#installation)**
