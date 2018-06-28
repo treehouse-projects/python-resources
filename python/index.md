@@ -40,8 +40,8 @@ Style Guides are just guidelines, but they are quite important when you start wo
 
 ---
 
-### Virtual Environments
-* **[Python Virtual Environments](https://docs.python.org/3/tutorial/venv.html)**
+### Python Environments
+* **[Python Environments](https://docs.python.org/3/tutorial/venv.html)**
     
     **Third Party Packages**
 
