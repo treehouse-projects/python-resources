@@ -14,7 +14,7 @@ Django is a free and open-source web framework used by many popular sites. It is
 * Admin
 * Django Rest Framework
 
-#### [Example Snippets](#)
+#### [Example Snippets](#) (Work in progress)
 
 * Importing data into Django
 

@@ -40,7 +40,7 @@ Style Guides are just guidelines, but they are quite important when you start wo
 
 ---
 
-### [Python Environments](python-environments.md)
+### [Python Environments](#) (Work in progress)
 You will hear about making "virtual environments" or "isolated Python environments" nearly everywhere when working in Python. It is a common practice that you will use to "isolate" dependencies for a given project.
 
 ---
@@ -51,12 +51,12 @@ You will hear about making "virtual environments" or "isolated Python environmen
 
 ---
 
-### Python Standard Library
+### Python Standard Library (Work in progress)
 
 * Built-in Functions
 * Built-in Types
 * Modules
-
+* Examples
 ---
 
 ### Web Frameworks
@@ -70,6 +70,15 @@ You will hear about making "virtual environments" or "isolated Python environmen
 
 * Django Templating
 * Django REST Framework
+
+---
+
+### Database ORMs
+
+* **[Peewee ORM](https://peewee.readthedocs.io/en/latest/)**
+* **[Django ORM](https://docs.djangoproject.com/en/2.0/topics/db/)**
+* **[SQLAlchemy](https://www.sqlalchemy.org/)**
+* **[Storm](https://storm.canonical.com/)**
 
 ---
 
