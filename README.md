@@ -15,22 +15,10 @@ Below is an overview index of resources, followed by a list of topics covered wi
 
 * Terminology
 * Style Guides
+* Python Standard Library
 * Virtual Environments
-
----
-
-### [Flask](flask/index.md)
-
-* Jinja2 Templating Language
-* Peewee ORM
-* Werkzeug for WSGI apps
-
----
-
-### [Django](django/index.md)
-
-* Django Web Framework
-* Django REST Framework
+* Database ORMs
+* Web Frameworks (Django, Flask)
 
 ---
 

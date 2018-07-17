@@ -51,6 +51,29 @@ You will hear about making "virtual environments" or "isolated Python environmen
 
 ---
 
+### Python Standard Library
+
+* Built-in Functions
+* Built-in Types
+* Modules
+
+---
+
+### Web Frameworks
+
+#### [Flask](flask/index.md)
+
+* Jinja2 Templating Language
+* Werkzeug for WSGI apps
+
+#### [Django](django/index.md)
+
+* Django Templating
+* Django REST Framework
+
+---
+
+
 ### Other Resources
 * **[Regular Expression Checker](https://pythex.org/)**
 * **[Python 2 or 3?](https://wiki.python.org/moin/Python2orPython3)**
