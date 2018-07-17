@@ -61,12 +61,12 @@ You will hear about making "virtual environments" or "isolated Python environmen
 
 ### Web Frameworks
 
-#### [Flask](flask/index.md)
+#### [Flask](flask/README.md)
 
 * Jinja2 Templating Language
 * Werkzeug for WSGI apps
 
-#### [Django](django/index.md)
+#### [Django](django/README.md)
 
 * Django Templating
 * Django REST Framework

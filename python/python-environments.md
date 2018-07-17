@@ -1,4 +1,4 @@
-[Back to the Python Index](index.md)
+[Back to the Python Index](README.md)
 
 ### Terminology
 **Dependencies**

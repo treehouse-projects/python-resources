@@ -1,4 +1,4 @@
-[Back to Django Index](index.md)
+[Back to Django Index](README.md)
 
 ## Django Web Framework
 

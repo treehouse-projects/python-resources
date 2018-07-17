@@ -11,7 +11,7 @@ Want to help and add resources? Awesome! Checkout our [CONTRIBUTING guidelines](
 
 Below is an overview index of resources, followed by a list of topics covered within that section.
 
-### [Python](python/index.md)
+### [Python](python/README.md)
 
 * Terminology
 * Style Guides
@@ -22,7 +22,7 @@ Below is an overview index of resources, followed by a list of topics covered wi
 
 ---
 
-### [Front-End](front-end/index.md)
+### [Front-End](front-end/README.md)
 
 * HTML
 * CSS
@@ -31,7 +31,7 @@ Below is an overview index of resources, followed by a list of topics covered wi
 
 ---
 
-### [Slack](slack/index.md)
+### [Slack](slack/README.md)
 
 * How-Tos in Slack
 
